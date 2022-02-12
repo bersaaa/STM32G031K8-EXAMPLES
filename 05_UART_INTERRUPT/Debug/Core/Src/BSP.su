@@ -1,0 +1,6 @@
+BSP.c:6:6:SysTick_Handler	8	static
+BSP.c:12:6:delay_ms	16	static
+BSP.c:17:6:USART2_IRQHandler	16	static
+BSP.c:22:6:_print	32	static
+BSP.c:30:6:printChar	16	static
+BSP.c:35:6:BSP_UART_init	16	static

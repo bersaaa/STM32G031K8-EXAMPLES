@@ -1,0 +1,7 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+lc512driver.c:11:6:INIT_EEPROM_512	8	static
+lc512driver.c:56:6:WriteSingleByte	24	static
+lc512driver.c:80:6:WriteMultipleByte	32	static
+lc512driver.c:113:6:ReadSingleByte	16	static
+lc512driver.c:146:6:ReadMultipleByte	40	static
